@@ -210,4 +210,12 @@ input[type="submit"] {
 		color: white;
 	}
 }
+
+.container input[type="submit"] {
+  height: 30px;
+  font-size: 13px;
+  background-color: #f55e55;
+  border: none;
+  color: #fff;
+}
 ::-webkit-input-placeholder { color: $dark; }
