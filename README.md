@@ -1,7 +1,7 @@
 # README
 # To Do App using Ruby on Rails 
 
-(https://github.com/ibrahimelbanna/Todo/blob/master/images/Todoitem.png)
+![To-do-item](https://github.com/ibrahimelbanna/Todo/blob/master/images/Todoitem.png "todoitem")
 (https://github.com/ibrahimelbanna/Todo/blob/master/images/Todolist.png)
 
 ## Instruction to run the application
