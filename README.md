@@ -2,7 +2,7 @@
 # To Do App using Ruby on Rails 
 
 ![To-do-item](https://github.com/ibrahimelbanna/Todo/blob/master/images/Todoitem.png )
-(https://github.com/ibrahimelbanna/Todo/blob/master/images/Todolist.png)
+![](https://github.com/ibrahimelbanna/Todo/blob/master/images/Todolist.png)
 
 ## Instruction to run the application
 1. Git clone https://github.com/ibrahimelbanna/Todo
